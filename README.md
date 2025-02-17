@@ -4,6 +4,7 @@
 <p align="left">👋 Hi, I'm Abdo Mostafa<br>Front-End Developer | Building Engaging Web Experiences<br><br>🎯 Actively seeking full-time roles or freelance projects<br><br>📍 Based in Egypt  <br><br>📧 Contact: abdo160996@gmail.com</p>
 
 ---
+
 <h3 align="left">🛠 Technical Stack</h3>
 
 <h4 align="left">Frontend Fundamentals</h4>
@@ -16,6 +17,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
 </div>
+
 ---
 
 <h4 align="left">Styling & Frameworks</h4>
@@ -55,7 +57,7 @@
   <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
 </div>
 
-
+---
 
 <h4 align="left">🌱 Learning Now</h4>
 
@@ -68,10 +70,12 @@
 ---
 
 ### 💼 Featured Projects
-**Furniture shop** - e-commerce platform built with React, Firebase auth, and Tailwind CSS 
+**Furniture shop** - e-commerce platform built with React, Firebase auth, and Tailwind CSS <br>  
+
 🔗 [Live Demo](https://furniture-ab.vercel.app/) | 📂 [GitHub Repo](https://github.com/abdo160996/furniture-shop)
 
-**Movies App** - Movie Website, built with React, Material-UI and Redux Toolkit using TMDB API
+**Movies App** - Movie Website, built with React, Material-UI and Redux Toolkit using TMDB API <br>  
+
 🔗 [Live Demo](cinematch-23.vercel.app/) | 📂 [GitHub Repo](https://github.com/abdo160996/cinematch)
 
 ---

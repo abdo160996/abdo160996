@@ -1,20 +1,16 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
-###
 
 <p align="left">👋 Hi, I'm Abdo Mostafa<br>Front-End Developer | Building Engaging Web Experiences<br><br>🎯 Actively seeking full-time roles or freelance projects<br><br>📍 Based in Egypt  <br><br>📧 Contact: abdo160996@gmail.com</p>
 
-###
 
 <h3 align="left">🛠 Technical Stack</h3>
 
-###
 
 <br clear="both">
 
 <h4 align="left">Frontend Fundamentals</h4>
 
-###
 
 <br clear="both">
 
@@ -26,13 +22,11 @@
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
 </div>
 
-###
 
 <br clear="both">
 
 <h4 align="left">Styling & Frameworks</h4>
 
-###
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=materialui" height="40" alt="materialui logo"  />
@@ -42,13 +36,11 @@
   <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
 </div>
 
-###
 
 <br clear="both">
 
 <h4 align="left">Core Technologies</h4>
 
-###
 
 <br clear="both">
 
@@ -57,17 +49,13 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
   <img src="https://cdn.simpleicons.org/redux/764ABC" height="40" alt="redux logo"  />
-  <img src="https://img.shields.io/badge/React_Query-242938?style=flat&logo=reactquery&logoColor=white" height="40" width="60" alt="redux logo"  />
+  <img src="https://img.shields.io/badge/React_Query-242938?style=flat&logo=reactquery&logoColor=white" height="40" alt="redux logo"  />
 
 </div>
-
-###
 
 <br clear="both">
 
 <h4 align="left">Tools & Utilities</h4>
-
-###
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
@@ -77,23 +65,18 @@
   <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
 </div>
 
-###
 
 <h6 align="left">____ ______________________________ _____</h6>
-
-###
 
 <br clear="both">
 
 <h4 align="left">🌱 Learning Now</h4>
 
-###
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
 </div>
 
-###
 
 <br clear="both">
 
@@ -107,15 +90,12 @@
 🔗 [Live Demo](cinematch-23.vercel.app/) | 📂 [GitHub Repo](https://github.com/abdo160996/cinematch)
 
 ---
-###
+
 
 <h6 align="left">____ ______________________________ _____</h6>
 
-###
 
 <h4 align="left">📫 Let's Connect!</h4>
-
-###
 
 <br clear="both">
 

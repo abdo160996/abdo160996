@@ -6,25 +6,36 @@
 ---
 
 <h3 align="left">🛠 Technical Stack</h3>
-**Frontend Fundamentals**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+**Frontend Fundamentals** 
+
+![HTML5](https://img.shields.io/badge/HTML5-242938?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-242938?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-242938?style=flat&logo=javascript&logoColor=yellow)
+
+---
 
 **Styling & Frameworks**  
-![SASS](https://img.shields.io/badge/SASS-CC6699?style=flat&logo=sass&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+
+![SASS](https://img.shields.io/badge/SASS-242938?style=flat&logo=sass&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-242938?style=flat&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-242938?style=flat&logo=bootstrap&logoColor=white)
+
+---
 
 **Core Technologies**  
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-593D88?style=flat&logo=redux&logoColor=white)
+
+![React](https://img.shields.io/badge/React-242938?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-242938?style=flat&logo=next.js&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-242938?style=flat&logo=redux&logoColor=white)
+
+---
 
 **Tools & Utilities**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat&logo=reactquery&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-242938?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-242938?style=flat&logo=github&logoColor=white)
+![React Query](https://img.shields.io/badge/React_Query-242938?style=flat&logo=reactquery&logoColor=white)
+
 ---
 
 <h4 align="left">🌱 Learning Now</h4>

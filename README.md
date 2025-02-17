@@ -52,7 +52,7 @@
 **Furniture shop** - e-commerce platform built with React, Firebase auth, and Tailwind CSS <br>  
 
 🔗 [Live Demo](https://furniture-ab.vercel.app/) | 📂 [GitHub Repo](https://github.com/abdo160996/furniture-shop)
-<br> 
+<br> <br> 
 **Movies App** - Movie Website, built with React, Material-UI and Redux Toolkit using TMDB API <br>  
 
 🔗 [Live Demo](cinematch-23.vercel.app/) | 📂 [GitHub Repo](https://github.com/abdo160996/cinematch)

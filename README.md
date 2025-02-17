@@ -57,7 +57,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
   <img src="https://cdn.simpleicons.org/redux/764ABC" height="40" alt="redux logo"  />
-  <img src="https://img.shields.io/badge/React_Query-242938?style=flat&logo=reactquery&logoColor=white" height="40" alt="redux logo"  />
+  <img src="https://img.shields.io/badge/React_Query-242938?style=flat&logo=reactquery&logoColor=white" height="40" width="30" alt="redux logo"  />
 
 </div>
 

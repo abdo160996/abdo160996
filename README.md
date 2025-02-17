@@ -1,59 +1,30 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
 
-<p align="left">👋 Hi, I'm Abdo Mostafa<br>Front-End Developer | Building Engaging Web Experiences<br><br>🎯 Actively seeking full-time roles or freelance projects<br><br>📍 Based in Egypt  <br><br>📧 Contact: abdo160996@gmail.com</p>
+<p align="left">👋 Hi, I'm Abdo Mostafa<br> <br> **Front-End Developer | Building Engaging Web Experiences** <br><br>🎯 Actively seeking full-time roles or freelance projects<br><br>📍 Based in Egypt  <br><br>📧 Contact: abdo160996@gmail.com</p>
 
 ---
 
 <h3 align="left">🛠 Technical Stack</h3>
+**Frontend Fundamentals**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-<h4 align="left">Frontend Fundamentals</h4>
+**Styling & Frameworks**  
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=flat&logo=sass&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
+**Core Technologies**  
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-593D88?style=flat&logo=redux&logoColor=white)
 
-
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-
-
----
-
-<h4 align="left">Styling & Frameworks</h4>
-
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=materialui" height="40" alt="materialui logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
-</div>
-
----
-
-<h4 align="left">Core Technologies</h4>
-
-
-<div align="left">
+**Tools & Utilities**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat&logo=reactquery&logoColor=white)
-</div>
-
----
-
-<h4 align="left">Tools & Utilities</h4>
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
-</div>
-
 ---
 
 <h4 align="left">🌱 Learning Now</h4>
@@ -70,7 +41,7 @@
 **Furniture shop** - e-commerce platform built with React, Firebase auth, and Tailwind CSS <br>  
 
 🔗 [Live Demo](https://furniture-ab.vercel.app/) | 📂 [GitHub Repo](https://github.com/abdo160996/furniture-shop)
-
+<br> 
 **Movies App** - Movie Website, built with React, Material-UI and Redux Toolkit using TMDB API <br>  
 
 🔗 [Live Demo](cinematch-23.vercel.app/) | 📂 [GitHub Repo](https://github.com/abdo160996/cinematch)

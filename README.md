@@ -5,10 +5,7 @@
 
 
 <h3 align="left">🛠 Technical Stack</h3>
-
-
 <br clear="both">
-
 <h4 align="left">Frontend Fundamentals</h4>
 
 

@@ -6,35 +6,36 @@
 ---
 
 <h3 align="left">🛠 Technical Stack</h3>
-**Frontend Fundamentals** 
 
-![HTML5](https://img.shields.io/badge/HTML5-242938?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-242938?style=flat&logo=css3&logoColor=white)
+**Frontend Fundamentals**
+
+![HTML5](https://img.shields.io/badge/HTML5-242938?style=flat&logo=html5&logoColor=yellow)
+![CSS3](https://img.shields.io/badge/CSS3-242938?style=flat&logo=css3&logoColor=yellow)
 ![JavaScript](https://img.shields.io/badge/JavaScript-242938?style=flat&logo=javascript&logoColor=yellow)
 
 ---
 
-**Styling & Frameworks**  
+**Styling & Frameworks**
 
-![SASS](https://img.shields.io/badge/SASS-242938?style=flat&logo=sass&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-242938?style=flat&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-242938?style=flat&logo=bootstrap&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-242938?style=flat&logo=sass&logoColor=yellow)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-242938?style=flat&logo=tailwind-css&logoColor=yellow)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-242938?style=flat&logo=bootstrap&logoColor=yellow)
 
 ---
 
 **Core Technologies**  
 
-![React](https://img.shields.io/badge/React-242938?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-242938?style=flat&logo=next.js&logoColor=white)
-![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-242938?style=flat&logo=redux&logoColor=white)
-
+![React](https://img.shields.io/badge/React-242938?style=flat&logo=react&logoColor=yellow)
+![Next.js](https://img.shields.io/badge/Next.js-242938?style=flat&logo=next.js&logoColor=yellow)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-242938?style=flat&logo=redux&logoColor=yellow)
+![React Query](https://img.shields.io/badge/React_Query-242938?style=flat&logo=reactquery&logoColor=yellow)
 ---
 
 **Tools & Utilities**  
 
 ![Git](https://img.shields.io/badge/Git-242938?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-242938?style=flat&logo=github&logoColor=white)
-![React Query](https://img.shields.io/badge/React_Query-242938?style=flat&logo=reactquery&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-242938?style=flat&logo=github&logoColor=yellow)
+![Vercel](https://img.shields.io/badge/vercel-242938?style=flat&logo=vercel&logoColor=yellow)
 
 ---
 

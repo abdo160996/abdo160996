@@ -3,7 +3,7 @@
 
 <p align="left">👋 Hi, I'm Abdo Mostafa<br>Front-End Developer | Building Engaging Web Experiences<br><br>🎯 Actively seeking full-time roles or freelance projects<br><br>📍 Based in Egypt  <br><br>📧 Contact: abdo160996@gmail.com</p>
 
-
+---
 <h3 align="left">🛠 Technical Stack</h3>
 
 <h4 align="left">Frontend Fundamentals</h4>
@@ -16,9 +16,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
 </div>
-
-
-<br clear="both">
+---
 
 <h4 align="left">Styling & Frameworks</h4>
 
@@ -31,8 +29,7 @@
   <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
 </div>
 
-
-<br clear="both">
+---
 
 <h4 align="left">Core Technologies</h4>
 
@@ -46,7 +43,7 @@
 
 </div>
 
-<br clear="both">
+---
 
 <h4 align="left">Tools & Utilities</h4>
 
@@ -59,7 +56,6 @@
 </div>
 
 
-<h6 align="left">____ ______________________________ _____</h6>
 
 <h4 align="left">🌱 Learning Now</h4>
 
@@ -80,8 +76,6 @@
 
 ---
 
-
-<h6 align="left">____ ______________________________ _____</h6>
 
 
 <h4 align="left">📫 Let's Connect!</h4>

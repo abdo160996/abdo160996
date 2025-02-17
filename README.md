@@ -5,11 +5,9 @@
 
 
 <h3 align="left">🛠 Technical Stack</h3>
-<br clear="both">
+
 <h4 align="left">Frontend Fundamentals</h4>
 
-
-<br clear="both">
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
@@ -39,8 +37,6 @@
 <h4 align="left">Core Technologies</h4>
 
 
-<br clear="both">
-
 <div align="left">
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="12" />
@@ -65,8 +61,6 @@
 
 <h6 align="left">____ ______________________________ _____</h6>
 
-<br clear="both">
-
 <h4 align="left">🌱 Learning Now</h4>
 
 
@@ -74,8 +68,6 @@
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
 </div>
 
-
-<br clear="both">
 
 ---
 
@@ -94,7 +86,7 @@
 
 <h4 align="left">📫 Let's Connect!</h4>
 
-<br clear="both">
+
 
 <div align="left">
   <a href="https://linkedin.com/in/abdoo-mostafa/" target="_blank">

@@ -12,18 +12,17 @@
 ![HTML5](https://img.shields.io/badge/HTML5-242938?style=flat&logo=html5&logoColor=yellow)
 ![CSS3](https://img.shields.io/badge/CSS3-242938?style=flat&logo=css3&logoColor=yellow)
 ![JavaScript](https://img.shields.io/badge/JavaScript-242938?style=flat&logo=javascript&logoColor=yellow)
-
 ---
 
 **Styling & Frameworks**
 
-![SASS](https://img.shields.io/badge/SASS-242938?style=flat&logo=sass&logoColor=yellow)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-242938?style=flat&logo=tailwind-css&logoColor=yellow)
+![Material-UI](https://img.shields.io/badge/Material--UI-242938?style=flat&logo=mui&logoColor=yellow)
+![SASS](https://img.shields.io/badge/SASS-242938?style=flat&logo=sass&logoColor=yellow)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-242938?style=flat&logo=bootstrap&logoColor=yellow)
-
 ---
 
-**Core Technologies**  
+**Core Technologies**
 
 ![React](https://img.shields.io/badge/React-242938?style=flat&logo=react&logoColor=yellow)
 ![Next.js](https://img.shields.io/badge/Next.js-242938?style=flat&logo=next.js&logoColor=yellow)
@@ -31,12 +30,12 @@
 ![React Query](https://img.shields.io/badge/React_Query-242938?style=flat&logo=reactquery&logoColor=yellow)
 ---
 
-**Tools & Utilities**  
+**Tools & Utilities**
 
-![Git](https://img.shields.io/badge/Git-242938?style=flat&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/Git-242938?style=flat&logo=git&logoColor=yellow)
 ![GitHub](https://img.shields.io/badge/GitHub-242938?style=flat&logo=github&logoColor=yellow)
 ![Vercel](https://img.shields.io/badge/vercel-242938?style=flat&logo=vercel&logoColor=yellow)
-
+![Vite](https://img.shields.io/badge/Vite-242938?style=flat&logo=vite&logoColor=yellow)
 ---
 
 <h4 align="left">🌱 Learning Now</h4>

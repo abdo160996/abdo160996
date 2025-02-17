@@ -1,7 +1,7 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
 
-<p align="left">👋 Hi, I'm Abdo Mostafa<br> <br> **Front-End Developer | Building Engaging Web Experiences** <br><br>🎯 Actively seeking full-time roles or freelance projects<br><br>📍 Based in Egypt  <br><br>📧 Contact: abdo160996@gmail.com</p>
+<p align="left">👋 Hi, I'm Abdo Mostafa<br> <br> <b>Front-End Developer | Building Engaging Web Experiences<b> <br><br>🎯 Actively seeking full-time roles or freelance projects<br><br>📍 Based in Egypt  <br><br>📧 Contact: abdo160996@gmail.com</p>
 
 ---
 
